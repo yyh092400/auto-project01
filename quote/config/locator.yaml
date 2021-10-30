@@ -1,0 +1,11 @@
+LoginPage:
+  username: username
+  password: password
+  submit: submit
+  framemain: main
+  sucinfo: /html/body/table/tbody/tr[1]/td/span
+  failinfo: /html/body/table/tbody/tr[1]/td[2]/form/table/tbody/tr[5]/td
+
+CustomerPage:
+  CustomerNO: customerNo
+  CustomerName: customerName

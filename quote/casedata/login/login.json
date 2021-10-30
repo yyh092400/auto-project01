@@ -1,0 +1,5 @@
+[
+  {"case_id":1,"username": "admin","password":"123456"},
+  {"case_id":2,"username": "admin","password":"222222"},
+  {"case_id":3,"username": "admin","password":"333333"}
+]
