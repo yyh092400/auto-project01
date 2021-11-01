@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time : 2021-10-28 10:16
-# @Author : bai ping
-# @QQ : 376706275
+
 import pymysql
 
 

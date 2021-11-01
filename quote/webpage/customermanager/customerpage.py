@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time : 2021-10-25 14:20
-# @Author : bai ping
-# @QQ : 376706275
+
 from quote.base.operationbrowser import OperationBrowser
 from quote.base.usebrowser import UseBrowser
 from quote.util.loginfo import AutoLog

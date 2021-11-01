@@ -1,5 +1,14 @@
+#加入系统路径
+import sys
+
+
+
+sys.path.remove('D:\\python3.9\\pythonwork\\project01\\quote\\webtest\\usermanager\\login')
+# print(sys.path)
+sys.path.insert(0,'D:\\python3.9\\pythonwork\\project01')
+
+
 import HwTestReport
-import time
 import unittest
 
 from quote.base.usebrowser import UseBrowser

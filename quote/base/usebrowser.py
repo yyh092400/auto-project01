@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time : 2021-10-25 10:18
-# @Author : bai ping
-# @QQ : 376706275
+
 from selenium import webdriver
 # import time
 class UseBrowser:
